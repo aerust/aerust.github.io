@@ -1,3 +1,3 @@
 layout: page
-title: "GUE Nextgen"
+title: "Alexa Rust"
 permalink: /gue/nextgen
